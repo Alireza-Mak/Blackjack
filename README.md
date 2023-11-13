@@ -28,7 +28,7 @@ For support, email Info@alirezamak.com.
 Install my-project:
 
 ```bash
-  git clone https://github.com/Alireza-Mak/blackjack.git
+  git clone https://github.com/Alireza-Mak/Blackjack.git
 ```
 ```bash
   Open your terminal or the terminal of your editor.
